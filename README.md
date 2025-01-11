@@ -8,3 +8,11 @@ A real-time License Plate Recognition (LPR) system for detecting, extracting, an
 
 ## How to Run
 1. Clone the repository:
+2. - Press **'c'** to capture and recognize a license plate.
+- Press 'q' to quit.
+
+## Dependencies
+- OpenCV
+- pytesseract
+
+
